@@ -1,0 +1,13 @@
+24-05-2026 18:41:23.933 INFO: Total Books found for requested filters is 0 | request #1
+24-05-2026 18:41:24.028 INFO: Creating new Book with Title [The Partner] | request #2
+24-05-2026 18:41:24.108 ERROR: Error: Book with the title [The Partner] already exists in the system | request# 3
+24-05-2026 18:41:24.264 INFO: Creating new Book with Title [A time to kill] | request #5
+24-05-2026 18:41:24.436 INFO: Creating new Book with Title [half proof] | request #7
+24-05-2026 18:41:24.436 DEBUG: Currently there are 2 Books in the system. New Book will be assigned with id 3 | request #7
+24-05-2026 18:41:24.520 INFO: Total Books found for requested filters is 2 | request #8
+24-05-2026 18:41:24.606 INFO: Total Books found for requested filters is 2 | request #9
+24-05-2026 18:41:24.704 INFO: Update Book id [1] price to 50 | request #10
+24-05-2026 18:41:24.704 DEBUG: Book [The Partner] price change: 70 --> 50 | request #10
+24-05-2026 18:41:24.794 INFO: Removing book [A time to kill] | request #11
+24-05-2026 18:41:24.794 DEBUG: After removing book [A time to kill] id: [2] there are 2 books in the system | request #11
+24-05-2026 18:41:24.872 INFO: Total Books found for requested filters is 2 | request #12
